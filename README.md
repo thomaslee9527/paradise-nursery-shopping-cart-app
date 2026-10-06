@@ -16,6 +16,10 @@ The project emphasized implementing interactive features such as a navigation ba
 The goal was to apply the skills learned in previous practice projects to build a functional, user-friendly e-commerce experience.
 
 
+## Source of code
+Fork from ibm-developer-skills-network/e-plantShopping
+
+
 ## Getting Started
 1. Clone repository
 
